@@ -1,16 +1,4 @@
 #pragma once
-#pragma once
-
-/*
-OZNACZENIA P”L:
-0 - pole puste
-1 - statek jednokorÛrkowy
-2 - statek dwÛkomÛrkowy
-3 - statek trÛjkomÛrkowy
-4 - statek czterokomÛrkowy
-5 - kraÒce planszy
-6 - pole otoczenia
-*/
 
 extern char plansza[12][12];
 extern char strzaly[11][11];
@@ -37,7 +25,7 @@ void generowanie_jednokomorkowca();
 
 
 
-//---------------------FUNKCJE OBS£UGUJ•CE GR ------------------------
+//---------------------FUNKCJE OBS≈ÅUGUJACE GRƒò------------------------
 void zczytywanie_wspolrzednych(int* wiersz_ost, int* kolumna_ost);
 void rezultat_strzalu(int* wiersz_ost, int* kolumna_ost);
 void ile_zostalo();
