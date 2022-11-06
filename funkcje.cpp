@@ -1,6 +1,4 @@
 #include "funkcje.h"
-
-#include "funkcje.h"
 #include <stdio.h>
 #include <stdlib.h>
 #include <conio.h>
@@ -209,9 +207,9 @@ void generowanie_czterokomorkowca()
         y - kolumna
 
         KIERUNEK:
-        1 - g髍a
+        1 - g贸ra
         2 - prawo
-        3 - d蟪
+        3 - d贸艂
         4 - lewo
     */
 
@@ -367,9 +365,9 @@ void generowanie_trojkomorkowca()
         y - kolumna
 
         KIERUNEK:
-        1 - g髍a
+        1 - g贸ra
         2 - prawo
-        3 - d蟪
+        3 - d贸艂
         4 - lewo
     */
 
@@ -523,9 +521,9 @@ void generowanie_dwukomorkowca()
         y - kolumna
 
         KIERUNEK:
-        1 - g髍a
+        1 - g贸ra
         2 - prawo
-        3 - d蟪
+        3 - d贸艂
         4 - lewo
     */
 
@@ -593,9 +591,9 @@ void generowanie_jednokomorkowca()
         y - kolumna
 
         KIERUNEK:
-        1 - g髍a
+        1 - g贸ra
         2 - prawo
-        3 - d蟪
+        3 - d贸艂
         4 - lewo
     */
 
